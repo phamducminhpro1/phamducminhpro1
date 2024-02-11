@@ -11,7 +11,7 @@
 - Ex-Board of Confluente
 - Graduated Bsc from TU Eindhoven, Cum Laude (8.6 GPA, Top 3 percent)
 - Got accepted into Master of Computer Science EPFL, KTH, McGill Advance Computing Imperial Colledge London, etc
-- 
+
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
